@@ -1,0 +1,81 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   PhoneApp3/PhoneApp3.sln
+#	new file:   PhoneApp3/PhoneApp3.v12.suo
+#	new file:   PhoneApp3/PhoneApp3/App.xaml
+#	new file:   PhoneApp3/PhoneApp3/App.xaml.cs
+#	new file:   PhoneApp3/PhoneApp3/Assets/AlignmentGrid.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/ApplicationIcon.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/BadgeLogo.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Logo.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/SplashScreen.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/SquareTile150x150.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/SquareTile71x71.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/StoreLogo.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Tiles/FlipCycleTileLarge.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Tiles/FlipCycleTileMedium.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Tiles/FlipCycleTileSmall.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Tiles/IconicTileMediumLarge.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/Tiles/IconicTileSmall.png
+#	new file:   PhoneApp3/PhoneApp3/Assets/WideLogo.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/AppManifest.xaml
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/AppxManifest.xml
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/ApplicationIcon.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/Tiles/FlipCycleTileLarge.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/Tiles/FlipCycleTileMedium.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/Tiles/FlipCycleTileSmall.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/Tiles/IconicTileMediumLarge.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Assets/Tiles/IconicTileSmall.png
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/PhoneApp3.build.appxrecipe
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/PhoneApp3.dll
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/PhoneApp3.pdb
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/PhoneApp3_Debug_AnyCPU.xap
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/Properties/WMAppManifest.xml
+#	new file:   PhoneApp3/PhoneApp3/Bin/Debug/resources.pri
+#	new file:   PhoneApp3/PhoneApp3/LocalizedStrings.cs
+#	new file:   PhoneApp3/PhoneApp3/MainPage.xaml
+#	new file:   PhoneApp3/PhoneApp3/MainPage.xaml.cs
+#	new file:   PhoneApp3/PhoneApp3/Package.appxmanifest
+#	new file:   PhoneApp3/PhoneApp3/PhoneApp3.csproj
+#	new file:   PhoneApp3/PhoneApp3/Properties/AppManifest.xml
+#	new file:   PhoneApp3/PhoneApp3/Properties/AssemblyInfo.cs
+#	new file:   PhoneApp3/PhoneApp3/Properties/WMAppManifest.xml
+#	new file:   PhoneApp3/PhoneApp3/Resources/AppResources.Designer.cs
+#	new file:   PhoneApp3/PhoneApp3/Resources/AppResources.resx
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/App.g.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/App.g.i.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/MDILProjectFiles.xml
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/MainPage.g.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/MainPage.g.i.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/MultipleQualifiersPerDimensionFound.txt
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.Resources.AppResources.resources
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.csproj.FileListAbsolute.txt
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.csproj.GenerateResource.Cache
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.dll
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.g.resources
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/PhoneApp3.pdb
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/ProjectArchitectures.txt
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/TempPE/Resources.AppResources.Designer.cs.dll
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/XapCacheFile.xml
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/layout.resfiles
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/layout.resfiles.intermediate
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/pri.resfiles
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/pri.resfiles.intermediate
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/priconfig.xml
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/priconfig.xml.intermediate
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/qualifiers.txt
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/qualifiers.txt.intermediate
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/resources.resfiles
+#	new file:   PhoneApp3/PhoneApp3/obj/Debug/resources.resfiles.intermediate
+#
+
