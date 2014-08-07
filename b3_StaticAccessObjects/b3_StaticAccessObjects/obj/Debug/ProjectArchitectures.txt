@@ -1,0 +1,1 @@
+C:\Users\Adi\documents\visual studio 2013\Projects\b3_StaticAccessObjects\b3_StaticAccessObjects\b3_StaticAccessObjects.csproj;neutral
